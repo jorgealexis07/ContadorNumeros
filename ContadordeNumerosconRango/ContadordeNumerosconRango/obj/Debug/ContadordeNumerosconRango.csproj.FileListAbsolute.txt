@@ -1,0 +1,7 @@
+c:\users\yo\source\repos\ContadordeNumerosconRango\ContadordeNumerosconRango\bin\Debug\ContadordeNumerosconRango.exe.config
+c:\users\yo\source\repos\ContadordeNumerosconRango\ContadordeNumerosconRango\bin\Debug\ContadordeNumerosconRango.exe
+c:\users\yo\source\repos\ContadordeNumerosconRango\ContadordeNumerosconRango\bin\Debug\ContadordeNumerosconRango.pdb
+c:\users\yo\source\repos\ContadordeNumerosconRango\ContadordeNumerosconRango\obj\Debug\ContadordeNumerosconRango.csprojResolveAssemblyReference.cache
+c:\users\yo\source\repos\ContadordeNumerosconRango\ContadordeNumerosconRango\obj\Debug\ContadordeNumerosconRango.csproj.CoreCompileInputs.cache
+c:\users\yo\source\repos\ContadordeNumerosconRango\ContadordeNumerosconRango\obj\Debug\ContadordeNumerosconRango.exe
+c:\users\yo\source\repos\ContadordeNumerosconRango\ContadordeNumerosconRango\obj\Debug\ContadordeNumerosconRango.pdb
